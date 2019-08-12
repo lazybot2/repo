@@ -1,8 +1,8 @@
-Origin: 懶人 Lazybot
-Label: 懶人 Lazybot
+Origin: Lazybot 懶人
+Label: Lazybot 懶人
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: 懶人 Lazybot
+Description: Lazybot 懶人
