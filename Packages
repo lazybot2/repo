@@ -6,7 +6,6 @@ Description: 觸動2461
 Maintainer: Lazy <lazy@givmail.com>
 Author: Lazy <lazy@givmail.com>
 Section: Tweak
-Depends: 
 Filename: debs/TS2461.deb
 Size: 7808352
 MD5sum: 51c1cb6fead99509845e0666bb954d40
@@ -21,7 +20,6 @@ Description: 觸動302
 Maintainer: Lazy <lazy@givmail.com>
 Author: Lazy <lazy@givmail.com>
 Section: Tweak
-Depends: 
 Filename: debs/TS302.deb
 Size: 10188004
 MD5sum: fa7d658cf2262f84e478f7e7aeac6ed1
@@ -36,7 +34,6 @@ Description: 觸動專業303
 Maintainer: Lazy <lazy@givmail.com>
 Author: Lazy <lazy@givmail.com>
 Section: Tweak
-Depends: 
 Filename: debs/TS303.deb
 Size: 11511670
 MD5sum: a8b84132d8b424437b1a7419912bb3d1
