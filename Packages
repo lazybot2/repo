@@ -46,7 +46,7 @@ MD5sum: a8b84132d8b424437b1a7419912bb3d1
 SHA1: 8e15cc78621368c83a4236845552dd65e2736c5c
 SHA256: 30077FC9B76E97AF8D1DAA1D0E2B75F222DDF6356D2C8356C829E89571EAFBCC
 
-Package: ReProvision
+Package: com.matchstic.reprovision
 Name: ReProvision
 Version: 0.4.2
 Architecture: iphoneos-arm
