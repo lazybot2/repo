@@ -77,37 +77,3 @@ Size: 37810
 MD5sum: b970b79d91c99d0f6c0c442f7fa86f78
 SHA1: b9328493d2af086b754c66b9cebb9b2489bb6380
 SHA256: 37D17F5AA72BC29194D824BDB7CA4C94E5ECD56C1F2D9D2DE08285BED3A5379A
-
-Package: AFC2
-Name: Apple File Conduit 
-Version: 1.2
-Architecture: iphoneos-arm
-Description: allow full file-system access over USB
-Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
-Author: Jay Freeman (saurik) <saurik@saurik.com>
-Section: System
-Depends: firmware (<< 8.0) | mobilesubstrate
-Pre-Depends: dpkg (>= 1.14.25-8)
-Conflicts: us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
-Filename: debs/AFC2.deb
-Size: 18114
-MD5sum: 34291f44d22cfbbf3eb4bad0ade3b89c
-SHA1: bddaf385263b9aad2b032b2116179f83afd077cc
-SHA256: 287ac4ce1a6e4095e824fd90f71fed301ff7d9508f1cd2d87a7354053e347a3c
-
-Package: AFC2x64
-Name: Apple File Conduit x64
-Version: 1.0.3
-Architecture: iphoneos-arm
-Description: Allow full file-system access over USB for arm64 devices, especially for those using a KPPLess jailbreak.
-Maintainer: saurik, Cannathea <csupport@cannathea.com>
-Author: saurik, Cannathea <csupport@cannathea.com>
-Section: System
-Depends: cy+cpu.arm64, mobilesubstrate, ldid
-Pre-Depends: dpkg (>= 1.14.25-8)
-Conflicts: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
-Filename: debs/AFC2x64.deb
-Size: 19824
-MD5sum: e24515a6fd1367ed52262232eac2c21d
-SHA1: 66b8fc3f3ee8e817db19c8246febca31763a8188
-SHA256: 86FBA815026A210B10967EBAA856EFC2D48DE2E43CFCEEBFF06245A75D4B5959
