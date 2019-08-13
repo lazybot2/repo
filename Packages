@@ -2,10 +2,11 @@ Package: ts2461
 Name: TouchSprite2461 触动
 Version: 2.4.6-1
 Architecture: iphoneos-arm
-Description: TouchSprite2461 触动
+Description: TS2461 触动iOS8-10.3.4
 Maintainer: Lazy <lazy@givmail.com>
 Author: Lazy <lazy@givmail.com>
 Section: Tweak
+Depends: mobilesubstrate, firmware (>= 8.0)
 Filename: debs/TS2461.deb
 Size: 7808352
 MD5sum: 51c1cb6fead99509845e0666bb954d40
@@ -16,10 +17,11 @@ Package: ts302
 Name: TouchSprite302 触动
 Version: 3.0.2
 Architecture: iphoneos-arm
-Description: TouchSprite302 触动
+Description: TS302 触动 iOS11
 Maintainer: Lazy <lazy@givmail.com>
 Author: Lazy <lazy@givmail.com>
 Section: Tweak
+Depends: mobilesubstrate, firmware (>= 11.0)
 Filename: debs/TS302.deb
 Size: 10188004
 MD5sum: fa7d658cf2262f84e478f7e7aeac6ed1
@@ -30,12 +32,28 @@ Package: ts303
 Name: TouchSpritePro303 触动专业版
 Version: 3.0.3
 Architecture: iphoneos-arm
-Description: TouchSpritePro303 触动专业版
+Description: TSpro303 触动专业版 iOS12
 Maintainer: Lazy <lazy@givmail.com>
 Author: Lazy <lazy@givmail.com>
 Section: Tweak
+Depends: mobilesubstrate, firmware (>= 12.0)
 Filename: debs/TS303.deb
 Size: 11511670
 MD5sum: a8b84132d8b424437b1a7419912bb3d1
 SHA1: 8e15cc78621368c83a4236845552dd65e2736c5c
 SHA256: 30077FC9B76E97AF8D1DAA1D0E2B75F222DDF6356D2C8356C829E89571EAFBCC
+
+Package: ReProvision
+Name: ReProvision 0.4.2
+Version: 0.4.2
+Architecture: iphoneos-arm
+Description: Re-sign applications on your device
+Maintainer: Matt Clarke
+Author: matt@incendo.ws
+Section: System
+Depends: firmware (>= 9.0)
+Filename: debs/Reprovision_0.4.2.deb
+Size: 10573694
+MD5sum: e01d764b70d8ad1a9cf35eae944962d4
+SHA1: 684dfff90782e30e1499abda4c2c8af5facd3bb2
+SHA256: 27d05d240aca105eb3bfaadacc0b00199733053d62bd6d9c469fdb3e808347dc
