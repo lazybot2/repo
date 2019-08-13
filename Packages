@@ -7,7 +7,7 @@ Maintainer: support@touchsprite.com
 Author: 只供懒人用户使用
 Section: Tweak
 Depends: mobilesubstrate, firmware (>= 8.0)
-Icon: file:///Applications/TouchSprite.app/icon.png
+Icon: file:///Applications/TouchSprite.app/AppIcon60x60@2x.png
 Filename: debs/TS2461.deb
 Size: 7808352
 MD5sum: 51c1cb6fead99509845e0666bb954d40
@@ -23,7 +23,7 @@ Maintainer: support@touchsprite.com
 Author: 只供懒人用户使用
 Section: Tweak
 Depends: mobilesubstrate, firmware (>= 11.0)
-Icon: file:///Applications/TouchSprite.app/icon.png
+Icon: file:///Applications/TouchSprite.app/AppIcon60x60@2x.png
 Filename: debs/TS302.deb
 Size: 10188004
 MD5sum: fa7d658cf2262f84e478f7e7aeac6ed1
@@ -39,7 +39,7 @@ Maintainer: support@touchsprite.com
 Author: 只供懒人用户使用
 Section: Tweak
 Depends: mobilesubstrate, firmware (>= 12.0)
-Icon: file:///Applications/TouchSprite.app/icon.png
+Icon: file:///Applications/TouchSprite.app/AppIcon60x60@2x.png
 Filename: debs/TS303.deb
 Size: 11511670
 MD5sum: a8b84132d8b424437b1a7419912bb3d1
