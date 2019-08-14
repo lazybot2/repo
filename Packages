@@ -84,9 +84,9 @@ Description: allow full file-system access over USB
 Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Section: System
-Depends: firmware (>= 8.0)
+Depends: firmware (>= 8.0), mobilesubstrate
 Conflicts: us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
-Filename: debs/AFC2.deb
+Filename: debs/afc2.deb
 Size: 18114
 MD5sum: 34291f44d22cfbbf3eb4bad0ade3b89c
 
