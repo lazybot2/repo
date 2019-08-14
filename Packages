@@ -93,7 +93,6 @@ Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/com.saurik.afc2d/
 Filename: debs/AFC2.deb
 Size: 18114
-Tag: purpose::daemon, role::enduser
 
 Author: saurik, Cannathea <csupport@cannathea.com>
 Maintainer: BigBoss <bigboss@thebigboss.org>
