@@ -1,4 +1,4 @@
-Package: ts2461
+Package: com.touchsprite.ios
 Name: TouchSprite2461 触动
 Version: 2.4.6-1
 Architecture: iphoneos-arm
@@ -14,7 +14,7 @@ MD5sum: 51c1cb6fead99509845e0666bb954d40
 SHA1: 91a60a22bcdce6d68be53591c6a2c96e4b1c4bff
 SHA256: a35d3dc03300752124277589f1b59f9e8255ed9d9f025513d89b25cd75330cfa
 
-Package: ts302
+Package: com.touchsprite.ios.arm64.v3
 Name: TouchSprite302 触动
 Version: 3.0.2
 Architecture: iphoneos-arm
@@ -30,7 +30,7 @@ MD5sum: fa7d658cf2262f84e478f7e7aeac6ed1
 SHA1: 9c5e4db670467395b2c64881bf0b66fff72cdb66
 SHA256: 2dc54fb2d73f47fbaceb04b31f96d59ae07b2fbf6dceb2fbd3b32d88f0190bdd
 
-Package: ts303
+Package: test.touchsprite.ios.arm64.pro.v3
 Name: TouchSpritePro303 触动专业版
 Version: 3.0.3
 Architecture: iphoneos-arm
