@@ -62,7 +62,7 @@ MD5sum: e01d764b70d8ad1a9cf35eae944962d4
 SHA1: 684dfff90782e30e1499abda4c2c8af5facd3bb2
 SHA256: 27d05d240aca105eb3bfaadacc0b00199733053d62bd6d9c469fdb3e808347dc
 
-Package: AppSync
+Package: net.angelxwind.appsyncunified
 Name: AppSync Unified
 Version: 32.0
 Architecture: iphoneos-arm
