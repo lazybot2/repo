@@ -77,7 +77,6 @@ Size: 37810
 MD5sum: b970b79d91c99d0f6c0c442f7fa86f78
 
 Package: com.saurik.afc2d
-Priority: optional
 Section: System
 Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
 Architecture: iphoneos-arm
