@@ -77,7 +77,7 @@ Size: 37810
 MD5sum: b970b79d91c99d0f6c0c442f7fa86f78
 
 Package: com.saurik.afc2d
-Name: Apple File Conduit "2"
+Name: Apple File Conduit 2
 Version: 1.2
 Architecture: iphoneos-arm
 Description: allow full file-system access over USB
@@ -88,6 +88,7 @@ Depends: firmware (>= 8.0)
 Conflicts: us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
 Filename: debs/AFC2.deb
 Size: 18114
+MD5sum: 34291f44d22cfbbf3eb4bad0ade3b89c
 
 Author: saurik, Cannathea <csupport@cannathea.com>
 Maintainer: BigBoss <bigboss@thebigboss.org>
