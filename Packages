@@ -77,18 +77,15 @@ Size: 37810
 MD5sum: b970b79d91c99d0f6c0c442f7fa86f78
 
 Package: com.saurik.afc2d
-Section: System
-Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
-Architecture: iphoneos-arm
-Version: 1.2
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: firmware (>= 8.0), mobilesubstrate
-Conflicts: us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
-Replaces: us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
-Provides: us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
-Description: allow full file-system access over USB
 Name: Apple File Conduit "2"
+Version: 1.2
+Architecture: iphoneos-arm
+Description: allow full file-system access over USB
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
 Author: Jay Freeman (saurik) <saurik@saurik.com>
+Section: System
+Depends: firmware (>= 8.0)
+Conflicts: us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
 Filename: debs/AFC2.deb
 Size: 18114
 
