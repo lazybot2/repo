@@ -1,6 +1,6 @@
 Package: com.touchsprite.ios
 Name: TouchSprite2461 触动
-Version: 2.4.6-1
+Version: 2.4.6
 Architecture: iphoneos-arm
 Description: TS2461 触动 iOS8-10.3.4
 Maintainer: support@touchsprite.com
@@ -16,7 +16,7 @@ SHA256: a35d3dc03300752124277589f1b59f9e8255ed9d9f025513d89b25cd75330cfa
 
 Package: com.touchsprite.ios.arm64.v3
 Name: TouchSprite302 触动
-Version: 3.0.2
+Version: 3.0.1
 Architecture: iphoneos-arm
 Description: TS302 触动 iOS11
 Maintainer: support@touchsprite.com
@@ -32,7 +32,7 @@ SHA256: 2dc54fb2d73f47fbaceb04b31f96d59ae07b2fbf6dceb2fbd3b32d88f0190bdd
 
 Package: test.touchsprite.ios.arm64.pro.v3
 Name: TouchSpritePro303 触动专业版
-Version: 3.0.3
+Version: 3.0.2
 Architecture: iphoneos-arm
 Description: TSpro303 触动专业版 iOS12
 Maintainer: support@touchsprite.com
@@ -48,7 +48,7 @@ SHA256: 30077FC9B76E97AF8D1DAA1D0E2B75F222DDF6356D2C8356C829E89571EAFBCC
 
 Package: com.matchstic.reprovision
 Name: ReProvision
-Version: 0.4.2
+Version: 0.4.1
 Architecture: iphoneos-arm
 Description: Re-sign applications on your device
 Maintainer: Matt Clarke <matt@incendo.ws>
@@ -64,7 +64,7 @@ SHA256: 27d05d240aca105eb3bfaadacc0b00199733053d62bd6d9c469fdb3e808347dc
 
 Package: net.angelxwind.appsyncunified
 Name: AppSync Unified
-Version: 32.0
+Version: 31.0
 Architecture: iphoneos-arm
 Description: Enables the ability to install unsigned/fakesigned iOS applications.
 Maintainer: Karen/あけみ (angelXwind) <karen@angelxwind.net>
@@ -75,37 +75,3 @@ Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.ap
 Filename: debs/Appsync.deb
 Size: 37810
 MD5sum: b970b79d91c99d0f6c0c442f7fa86f78
-
-Author: saurik, Cannathea <csupport@cannathea.com>
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Name: Apple File Conduit "2" (arm64/KPPLess)
-Package: com.cannathea.afc2d-arm64
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: cy+cpu.arm64, mobilesubstrate, ldid
-Conflicts: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
-Replaces: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
-Provides: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
-Section: System
-Version: 1.0.3
-Filename: debs/AFC2x64.deb
-Architecture: iphoneos-arm
-Description: Allow full file-system access over USB for arm64 devices, especially for those using a KPPLess jailbreak.
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=afc2kpplessDp
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=afc2kpplessDp
-Sponsor: thebigboss.org <http://thebigboss.org>
-dev: cannathea
-Tag: purpose::daemon, compatible::ios10, compatible::ios11, compatible::ios12
-
-Package: com.saurik.afc2d
-Name: Apple File Conduit 2
-Version: 1.2
-Architecture: iphoneos-arm
-Description: allow full file-system access over USB
-Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
-Author: Jay Freeman (saurik) <saurik@saurik.com>
-Section: System
-Depends: firmware (>= 8.0), mobilesubstrate
-Conflicts: us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
-Filename: debs/afc2.deb
-Size: 18114
-MD5sum: 34291f44d22cfbbf3eb4bad0ade3b89c
