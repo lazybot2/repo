@@ -39,7 +39,6 @@ Maintainer: support@touchsprite.com
 Author: 只供懒人用户使用
 Section: Tweak
 Size: 11511670
-MD5sum: 4c072dea78a1448e0cfa9a59f536067b
 Depends: mobilesubstrate, firmware (>= 10.0)
 Conflicts: us.hackulo.appsync50
 Icon: file:///Applications/TouchSprite.app/AppIcon60x60@3x.png
