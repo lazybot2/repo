@@ -30,6 +30,20 @@ MD5sum: fa7d658cf2262f84e478f7e7aeac6ed1
 SHA1: 9c5e4db670467395b2c64881bf0b66fff72cdb66
 SHA256: 2dc54fb2d73f47fbaceb04b31f96d59ae07b2fbf6dceb2fbd3b32d88f0190bdd
 
+Package: test.touchsprite.ios.arm64.pro.v3
+Version: 3.0.3-10
+Section: 触动专业版 beta
+Maintainer: 北京帮你玩科技有限公司 <support@touchsprite.com>
+Depends: mobilesubstrate, firmware (>= 7.0)
+Replaces: com.ts.touchsprite, com.darwindev.touchsprite, repo.so.touchsprite, touchsprite.178, com.touchsprite.ios
+Architecture: iphoneos-arm
+Name: 触动精灵专业版(arm64)
+Author: 北京帮你玩科技有限公司 <support@touchsprite.com>
+Sponsor: 北京帮你玩科技有限公司 <http://www.touchsprite.com>
+Icon: file:///Applications/TouchSprite.app/icon.png
+Filename: debs/TS303.deb
+Size: 11511670
+
 Package: com.matchstic.reprovision
 Name: ReProvision
 Version: 0.4.1
