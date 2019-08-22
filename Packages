@@ -39,6 +39,7 @@ Maintainer: support@touchsprite.com
 Author: 只供懒人用户使用
 Section: Tweak
 Size: 11511670
+MD5sum: a8b84132d8b424437b1a7419912bb3d1
 Depends: mobilesubstrate, firmware (>= 10.0)
 Filename: debs/touchsprite303.deb
 
