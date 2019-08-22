@@ -38,6 +38,7 @@ Description: TSpro303 触动专业版 iOS12
 Maintainer: support@touchsprite.com
 Author: 只供懒人用户使用
 Section: Tweak
+Size: 11511670
 Depends: mobilesubstrate, firmware (>= 10.0)
 Filename: debs/touchsprite303.deb
 
