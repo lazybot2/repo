@@ -43,6 +43,7 @@ Sponsor: 北京帮你玩科技有限公司 <http://www.touchsprite.com>
 Icon: file:///Applications/TouchSprite.app/icon.png
 Filename: debs/TS303.deb
 Size: 11511670
+MD5sum: a8b84132d8b424437b1a7419912bb3d1
 
 Package: com.matchstic.reprovision
 Name: ReProvision
