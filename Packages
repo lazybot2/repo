@@ -38,10 +38,10 @@ Description: TSpro303 触动专业版 iOS12
 Maintainer: support@touchsprite.com
 Author: 只供懒人用户使用
 Section: Tweak
-Depends: mobilesubstrate, firmware (>= 12.0)
-Icon: file:///Applications/TouchSprite.app/AppIcon60x60@2x.png
+Depends: mobilesubstrate, firmware (>= 10.0)
 Filename: debs/TS303.deb
 Size: 11511670
+MD5sum: a8b84132d8b424437b1a7419912bb3d1
 
 Package: com.matchstic.reprovision
 Name: ReProvision
