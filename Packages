@@ -39,10 +39,10 @@ Maintainer: support@touchsprite.com
 Author: 只供懒人用户使用
 Section: Tweak
 Size: 11511670
-MD5sum: a8b84132d8b424437b1a7419912bb3d1
+MD5sum: 4c072dea78a1448e0cfa9a59f536067b
 Depends: mobilesubstrate, firmware (>= 10.0)
 Filename: debs/touchsprite303.deb
-SHA1: 8e15cc78621368c83a4236845552dd65e2736c5c
+SHA1: b6e7b0156eb972c786beb1d6d27a5c73a095ec9e
 
 Package: com.matchstic.reprovision
 Name: ReProvision
