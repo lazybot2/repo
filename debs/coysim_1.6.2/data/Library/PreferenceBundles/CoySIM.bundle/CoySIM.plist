@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>items</key>
+  <array>
+      <dict>
+      <key>cell</key>
+      <string>PSGroupCell</string>
+      <key>label</key>
+      <string>Enable/Disable</string>
+      <key>footerAlignment</key>
+      <string>1</string>
+      <key>footerText</key>
+      <string>The First Option will disable the No SIM Card Alerts Everywhere.
+
+The Second will change the Advice from No Sim to No Service on the StatusBar and still disables the Alerts (if the Show Searching Opinion is On it will show Searching instead.</string>
+    </dict>
+    <dict>
+      <key>cell</key>
+      <string>PSSwitchCell</string>
+      <key>default</key>
+      <false/>
+      <key>defaults</key>
+      <string>com.cydiageek.coysim</string>
+      <key>key</key>
+      <string>t1Enabled</string>
+      <key>label</key>
+      <string>Disable NO SIM Card Alerts</string>
+    </dict>
+<dict>
+      <key>cell</key>
+      <string>PSSwitchCell</string>
+      <key>default</key>
+      <false/>
+      <key>defaults</key>
+      <string>com.cydiageek.coysim</string>
+      <key>key</key>
+      <string>t2Enabled</string>
+      <key>label</key>
+      <string>Replace NO SIM To No Service On Bar</string>
+    </dict>
+<dict>
+      <key>cell</key>
+      <string>PSGroupCell</string>
+      <key>label</key>
+      <string>Extras</string>
+      <key>footerAlignment</key>
+      <string>1</string>
+      <key>footerText</key>
+      <string>If you have Zeppelin installed, disable it to show the SIM Card Carrier Options.</string>
+    </dict>
+<dict>
+      <key>cell</key>
+      <string>PSSwitchCell</string>
+      <key>default</key>
+      <false/>
+      <key>defaults</key>
+      <string>com.cydiageek.coysim</string>
+      <key>key</key>
+      <string>t3Enabled</string>
+      <key>label</key>
+      <string>Disable Carrier SIM Card Name</string>
+    </dict>
+<dict>
+      <key>cell</key>
+      <string>PSSwitchCell</string>
+      <key>default</key>
+      <false/>
+      <key>defaults</key>
+      <string>com.cydiageek.coysim</string>
+      <key>key</key>
+      <string>t5Enabled</string>
+      <key>label</key>
+      <string>Show Searching As Carrier Name</string>
+    </dict>
+<dict>
+      <key>cell</key>
+      <string>PSSwitchCell</string>
+      <key>default</key>
+      <false/>
+      <key>defaults</key>
+      <string>com.cydiageek.coysim</string>
+      <key>key</key>
+      <string>t6Enabled</string>
+      <key>label</key>
+      <string>Show Model As Carrier Name</string>
+    </dict>
+<dict>
+      <key>cell</key>
+      <string>PSSwitchCell</string>
+      <key>default</key>
+      <false/>
+      <key>defaults</key>
+      <string>com.cydiageek.coysim</string>
+      <key>key</key>
+      <string>t4Enabled</string>
+      <key>label</key>
+      <string>Enable LTE Icon Name</string>
+    </dict> 
+  <dict>
+  <key>cell</key>
+  <string>PSGroupCell</string>
+  <key>label</key>
+  <string>Take Change</string>
+  <key>footerAlignment</key>
+  <string>1</string>
+  <key>footerText</key>
+  <string>Respring to apply any Changes!</string>
+</dict> 
+<dict>
+   <key>action</key>
+   <string>showRespringPrompt</string>
+   <key>cell</key>
+   <string>PSButtonCell</string>
+   <key>label</key>
+   <string>Respring</string>
+</dict>
+   <dict>
+   <key>cell</key>
+   <string>PSGroupCell</string>
+   <key>label</key>
+   <string>More</string>
+   <key>footerAlignment</key>
+   <string>1</string>
+   <key>footerText</key>
+   <string>CoySIM © 2016 by Luca Geek (@CydiaGeek), enjoy it!</string>
+  </dict>
+ <dict>
+ <key>cell</key>
+ <string>PSButtonCell</string>
+ <key>action</key>
+ <string>twitter</string>
+ <key>label</key>
+ <string>Follow me on Twitter</string>
+  </dict>
+</array>
+  <key>title</key>
+  <string>CoySIM</string>
+</dict>
+</plist>

@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = CoySIM;
+	cell = PSLinkCell;
+	detail = CoySIMListController;
+	icon = CoySIM.png;
+	isController = 1;
+	label = CoySIM;
+    };
+}
