@@ -13,7 +13,7 @@ echo "==> Installing dependencies..."
 brew install libusbmuxd https://raw.githubusercontent.com/kadwanev/bigboybrew/master/Library/Formula/sshpass.rb
 
 clear
-echo "**************** 懒人 Network Fix ****************"
+echo "**************** 懒人 修复无法联网 ****************"
 echo
 echo "=> By :"
 echo "=>   - "
@@ -31,8 +31,8 @@ runcmd () {
     sshpass -p alpine ssh -o StrictHostKeyChecking=no root@localhost -p 2222 "$1" > /dev/null
 }
 
-echo "==> 懒人 Network Fixing..."
-runcmd "mount -o rw,union,update / && rm -r /var/preferences/com.apple.networkextension* && uicache --all && killall backboardd"
+echo "==> 懒人 修复无法联网...自动重启后请再越狱"
+runcmd "rm -r /var/preferences/com.apple.networkextension* && reboot"
 
 echo
 echo "==> 完成！Done! :)"
