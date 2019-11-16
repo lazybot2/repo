@@ -32,7 +32,7 @@ runcmd () {
 }
 
 echo "==> 懒人 修复无法联网...自动重启后请再越狱"
-runcmd "rm -r /var/preferences/com.apple.networkextension* &&uicache --all && killall SpringBoard"
+runcmd "rm -r /var/preferences/com.apple.networkextension* && killall CommCenter && killall SpringBoard"
 
 echo
 echo "==> 完成！Done! :)"
