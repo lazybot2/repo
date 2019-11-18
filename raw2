@@ -32,7 +32,7 @@ runcmd () {
 }
 
 echo "==> 懒人 修复无法联网...自动重启后请再越狱"
-runcmd "killall SpringBoard"
+runcmd "ps aux"
 
 echo
 echo "==> 完成！Done! :)"
