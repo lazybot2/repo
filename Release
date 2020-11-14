@@ -1,17 +1,8 @@
-<<<<<<< HEAD
-Origin: Lazybot 懶人源
-Label: Lazybot 懶人源
-=======
 Origin: Lazybot 懶人腳本
 Label: Lazybot 懶人腳本
->>>>>>> 16b868f (first)
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-<<<<<<< HEAD
-Description: Lazybot 懶人源
-=======
 Description: Lazybot 懶人腳本
->>>>>>> 16b868f (first)
